@@ -1,0 +1,113 @@
+body
+{
+    
+}
+.a
+{
+    position:absolute;
+    color:darkolivegreen;
+    top:280px;
+    left:395px;
+    font-size:x-large;
+}
+.b
+{
+    position:absolute;
+    color:darkolivegreen;
+    left:530px;
+    top:330px;
+    font-size:large;
+}
+.p
+{
+    position:absolute;
+    top:400px;
+    left:683px;
+    border:2px solid darkolivegreen;
+    height:30px;
+    width:70px;
+    background-color:darkolivegreen;
+    color:white;
+    outline:none;
+}
+.r
+{
+    position:absolute;
+    top:400px;
+    left:400px;
+    border:2px solid darkolivegreen;
+    width:350px;
+    height:25px;
+    outline:none;
+}
+.s
+{
+    position:relative;
+    border:2px solid darkolivegreen;
+    width:99%;
+    height:600px;
+    background-color:darkolivegreen;
+    top:500px;
+}
+.n
+{
+    position:fixed;
+    top:5px;
+    left:500px;
+    color:white;
+    font-size:xx-large;
+}
+.m
+{
+    position:fixed;
+    top:25px;
+    left:0px;
+    color:darkolivegreen;
+    border:2px solid darkolivegreen;
+    width:98%;
+    height:40px;
+    background-color:darkolivegreen;
+}
+.o
+{
+    
+}
+
+
+@media only screen and (min-width:0px) and (max-width:1000px){
+    body
+    {
+        margin:0;
+    }
+    .n
+    {
+        left:180px;
+    }
+    .r
+    {
+        left:50px;
+    }
+    .p
+    {
+        left:332px;
+    }
+    .a
+    {
+        left:40px;
+    }
+    .b
+    {
+        left:165px;
+        top:360px;
+        font-size:x-large;
+    }
+    .s
+    {
+        width:123%;
+    }
+    
+   
+
+
+
+}

@@ -1,0 +1,229 @@
+body
+{
+    background-color:black;
+}
+.hh{
+    position:relative;
+    width:50px;
+    left:358px;
+    top:9px;
+    
+        
+}
+.nn
+{
+    position:relative;
+    border:2px solid red;
+    top:0px;
+    margin-bottom:20px;
+    height:115px;
+    width:450px;
+    border-radius:10px;
+}
+.mm
+{
+    position:relative;
+    border:2px solid red;
+    top:0px;
+}
+.pp
+{
+    position:absolute;
+    left:150px;
+    top:18px;
+    border:2px solid red;
+    width:50px;
+    padding-left:190px;
+    color:red;
+    font-size:large;
+}
+.zz
+{
+    position:absolute;
+    left:30px;
+    top:45px;
+    border:2px solid red;
+    width:300px;
+    padding-left:60px;
+    height:60px;  
+    color:red;
+    font-size:large;
+}
+.p
+{
+    position:relative;;
+    border:2px solid red;
+    width:40%;
+    height:160px;
+    margin-bottom:25px;
+    color:red;
+    border-radius:9px;
+       
+        
+}
+.df
+{
+    position:relative;
+    left:200px;
+    width:80px;
+    top:-165px;
+    color: red;
+    
+    
+}
+img
+{
+    position:absolute;
+    border:2px solid red;
+    border-radius:30px;
+    width:50px;
+    height:50px;
+    left:40px;
+    top:-9px;
+}
+.v
+{
+    position:absolute;
+    top:90px;
+}
+w
+{
+    position:absolute;
+    top:30px;
+}
+a:link
+{
+    text-decoration: none;
+    color:black;
+}
+.n
+{
+    color:white;
+    position:absolute;
+    left:130px;
+    top:-9px;
+    border:2px solid red;
+    width:150px;
+    color:white;
+    background-color: black;
+    padding-left:70px;
+    border-radius:9px;
+    outline:none;
+    
+}
+.za
+{
+    position:relative;
+    border:2px solid red;
+    color:red;
+    top:-70px;
+    border-radius:4px;
+    width:120px;
+    height:90px;
+    background-color:black;
+    left:7px;
+    font-size:large;
+}
+.za:visited{
+    color:red;
+}
+.za:link{
+    color:red;
+}
+.n:visited{
+    color:white;
+}
+.n:link{
+    color:red;
+}
+.w
+{
+    position:relative;
+    left:110px;
+    top:40px;
+    border:2px solid black;;
+    width:190px;
+    height:80px;
+    padding-left:90px;
+    color:white;
+}
+.fd
+{
+    position:absolute;
+    left:210px;
+    top:135px;
+    border:2px solid red;
+    color:red;
+    width:40px;
+    padding-left:10px;
+    background-color: black;
+    border-radius:9px;
+    outline:none;
+}
+.fd:visited{
+    color:red;
+}
+.fd:link{
+    color:red;
+}
+
+@media only screen and (min-width:0px) and  (max-width:821px){
+    body
+    {
+        margin:0;
+        background-color:black;
+    }
+    .p
+    {
+        width:95%;
+        color:red;
+        left:10px;
+        height:220px;
+        
+    }
+    .df{
+        top:-225px;
+    }
+    .w{
+        left:30px;
+        top:60px;
+        font-size:large;
+        width:30%;
+        padding-left:170px;
+    }
+    .df{
+        font-size:xx-large;
+        left:120px;
+    }
+    .fd{
+        width:60px;
+        padding-left:20px;
+        padding-top:2px;
+        height:25px;
+        font-size:x-large;
+        top:185px;
+        left:130px;
+    }
+    .e{
+        font-size:x-large;
+    }
+    .n{
+        left:90px;
+        width:30%;
+    }
+    .za{
+        top:-100px;
+        left:20px;
+    }
+
+
+
+}
+@media only screen and (min-width:310px) and  (max-width:440px){
+    .p{
+        width:90%;
+    }
+    
+}    
+
+

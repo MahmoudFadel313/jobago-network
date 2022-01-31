@@ -1,0 +1,49 @@
+body
+{
+    background-color:black;
+}
+.r
+{
+    color:white;
+    border:4px solid;
+}
+.r:focus
+{
+    border-color:dodgerwhite;
+}
+.p
+{
+    color:white;
+    border:4px solid white;
+    padding:35px;
+    border-radius:8px;
+    font-family:comic sans ms;
+    margin-left:440px;
+    margin-top:160px;
+    width:30%;
+    height:70%;
+    background-color:white;
+    color:black;
+}
+a
+{
+    font-size:xx-large;
+    font-family:tahoma;
+    color:black;
+    position:absolute;
+    left:500px;
+    
+}
+a:link
+{
+    text-decoration:none;
+}
+a:hover
+{
+    color:red;
+}
+.n
+{
+    color:white;
+}
+
