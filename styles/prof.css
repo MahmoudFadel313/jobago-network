@@ -1,0 +1,44 @@
+body
+{
+    
+    background-color:black;
+}
+h1
+{
+    position:fixed;
+    left:500px;
+    color:white;
+    
+    
+}
+h1:focus
+{
+    border-color:dodgerwhite;
+}
+.t
+{
+    font-family:comic sans ms;
+    color:white;
+    border:4px solid;
+    padding:20px;
+    margin-top:80px;
+    border-radius:20px;
+}
+.m
+{
+    font-family:comic sans ms;
+    color:white;
+    border:4px solid;
+    padding:20px;
+    margin-top:10px;
+    border-radius:20px;
+}
+.n
+{
+    font-family:comic sans ms;
+    color:white;
+    border:4px solid;
+    padding:20px;
+    margin-top:10px;
+    border-radius:20px;
+}
